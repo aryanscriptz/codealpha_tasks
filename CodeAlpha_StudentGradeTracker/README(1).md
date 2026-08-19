@@ -136,7 +136,7 @@ The main objective of this project is to practice **Java collections, user input
 
 ## Author
 
-**Your Name**
+**aryanscriptz**
 
 If you found this project useful, consider ⭐ starring the repository.
 
