@@ -76,6 +76,6 @@ MIT License
 
 ## Author
 
-**ARONE**
+**aryanscriptz**
 
 Java Desktop AI Chatbot built with Java Swing.
