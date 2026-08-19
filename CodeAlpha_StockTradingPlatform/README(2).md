@@ -96,4 +96,4 @@ Stock Purchased Successfully.
 
 ## Author
 
-Your Name
+**aryanscriptz**
